@@ -9,4 +9,4 @@ Project Created and Implemented by Me and Alex for CSC335 - Object Oriented Prog
 
 This repo contains the implementation that I made to protoype the project before we released to students.
 
-![](MadlibsProjectDescription.pdf)
+[MadLibsProjectDescription](/MadlibsProjectDescription.pdf)
