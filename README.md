@@ -8,3 +8,5 @@ Project Created and Implemented by Me and Alex for CSC335 - Object Oriented Prog
 • Required students to overlay the template into a JavaFX GUI
 
 This repo contains the implementation that I made to protoype the project before we released to students.
+
+![](MadlibsProjectDescription.pdf)
